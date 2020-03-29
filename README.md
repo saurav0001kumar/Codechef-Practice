@@ -4,3 +4,5 @@ The solutions are categorised into : Beginner, Easy, Medium, Hard, Challenge, Pe
 
 # To see the full question of the corresponding solutions visit : https://www.codechef.com/problems/school
 
+
+
